@@ -25,6 +25,7 @@ bin/derby.log
 bin/metastore_db
 *jar
 *log
+**tgz
 website/_site
 website/Gemfile.lock
 website/.bundle
